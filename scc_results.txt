@@ -1,0 +1,8 @@
+Strongly Connected Components (SCCs)
+Using Kosaraju’s Algorithm
+
+------------------------------------
+SCC 1: { a, b, c }}
+SCC 2: { d, e, f, g, h }}
+
+Time Complexity: O(V + E)
